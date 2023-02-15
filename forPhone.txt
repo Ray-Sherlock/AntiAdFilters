@@ -1,0 +1,475 @@
+! 2022-10-03 https://www.zhihu.com
+www.zhihu.com##.css-1e447mw.is-higher.OpenInAppButton
+www.zhihu.com##.css-1f5xhxn.is-higher.OpenInAppButton
+www.zhihu.com##.KfeCollection-VipRecommendCard
+www.zhihu.com##.RelatedReadings.Card
+www.zhihu.com##.HotQuestions.Card
+www.zhihu.com##.Button--blue.MobileAppHeader-downloadLink.Button
+
+! 2022-10-03 https://zhuanlan.zhihu.com
+zhuanlan.zhihu.com##.css-1f5xhxn.is-higher.OpenInAppButton
+zhuanlan.zhihu.com##.Button--blue.MobileAppHeader-downloadLink.Button
+zhuanlan.zhihu.com##.MobilePostItem-Description
+zhuanlan.zhihu.com##.Post-Sub-Mobile.Post-Sub > div > ul
+zhuanlan.zhihu.com##.css-1e447mw.is-higher.OpenInAppButton
+zhuanlan.zhihu.com##.Post-Sub-Mobile.Post-Sub
+zhuanlan.zhihu.com##.Post-VipRecommendCard.KfeCollection-VipRecommendCard-article.KfeCollection-VipRecommendCard
+
+! 2022-10-03 https://www.zaobao.com
+www.zaobao.com##.pdt10.pdr10.flex-pack-end.flex
+www.zaobao.com##.guide-body
+www.zaobao.com##.guide-wrapper
+www.zaobao.com##.bannerCPC20.justify-content-center.row
+www.zaobao.com##.pdt10.pdb10.flex-pack-center.flex
+www.zaobao.com##.adv.reset-row-margin.mt-lg-0
+www.zaobao.com##.next-article
+
+! 2022-10-03 https://developer.mozilla.org
+developer.mozilla.org##.mdn-cta-container
+
+! 2022-10-03 https://wap.mail.qq.com
+wap.mail.qq.com##.download_container
+
+! 2022-10-04 https://www.zaobao.com
+www.zaobao.com##.adv.reset-row-margin.news-rank-adv
+
+! 2022-10-04 https://main.m.taobao.com
+main.m.taobao.com##button
+
+! 2022-10-04 https://m.bilibili.com
+m.bilibili.com##.m-nav-openapp.launch-app-btn
+m.bilibili.com##.home-float-openapp.launch-app-btn
+
+! 2022-10-05 https://www.zaobao.com
+www.zaobao.com##.further-reading
+www.zaobao.com##.a2a_kit.left-aside-wrapper
+
+! 2022-10-05 https://www.runoob.com
+www.runoob.com##.fixed-btn
+
+! 2022-10-05 https://1ttdy.com
+1ttdy.com###header_box > .clearfix.mt20.wrap > ul
+1ttdy.com###top_box > .clearfix.mt20.wrap > ul
+1ttdy.com###footer_box > .clearfix.mt20.wrap
+
+! 2022-10-05 https://blog.csdn.net
+blog.csdn.net##.open_app_channelCode.feed-Sign-style-old.feed-Sign-span
+blog.csdn.net##.passport-login-container
+blog.csdn.net##.btn_open_app_prompt_div
+blog.csdn.net###comment
+blog.csdn.net###recommend
+blog.csdn.net##.floatL.operate_common.operate_write
+blog.csdn.net###main > .clearfix
+
+! 2022-10-05 https://blog.csdn.net
+blog.csdn.net##.wap-shadowbox.weixin-shadowbox
+blog.csdn.net##.unlogin.clearfix.rightmenu
+blog.csdn.net##.aside-header-fixed
+
+! 2022-10-05 https://m.bilibili.com
+m.bilibili.com##.visible-open-app-btn.m-video-main-launchapp.launch-app-btn > .m-video2-awaken-btn
+m.bilibili.com##.bottom-tab
+
+! 2022-10-05 https://m.baidu.com
+m.baidu.com##.c
+m.baidu.com##.ls
+m.baidu.com###format-banner
+m.baidu.com##.retlink
+
+! 2022-10-05 https://tieba.baidu.com
+tieba.baidu.com##.nav-bar-bottom
+tieba.baidu.com##.nav-bar-top
+tieba.baidu.com##.tb-button-group__nav
+tieba.baidu.com##.tb-forum-user__join-btn
+tieba.baidu.com##.gray-background.feed-warp
+tieba.baidu.com##.only-lz
+tieba.baidu.com##.main-thread-content.main-thread-content-margin > .w-row-justify-between.w-row-align-center.w-row.interaction-bar
+tieba.baidu.com##.more-image-desc
+
+! 2022-10-06 https://jingyan.baidu.com
+jingyan.baidu.com##.wgt-rel-exp-feed
+jingyan.baidu.com##.dislike.like-btn
+jingyan.baidu.com##.content-box.clearfix.fillet-box.wgt-like-and-share > ul
+jingyan.baidu.com##.search-enhance.page-header
+
+! 2022-10-07 https://view.inews.qq.com
+view.inews.qq.com##.slider-top-bar_sliderWrapper__1q9sd
+view.inews.qq.com##.header_wap-header__1VkCP
+
+! 2022-10-07 https://baijiahao.baidu.com
+baijiahao.baidu.com##._3HSrE8GhM0JsFOsWRdT0Is
+baijiahao.baidu.com##._3jnLrRxNVSInC83aTuBsDn
+baijiahao.baidu.com##._26r8fbVbs76lQ6b4RxtcT3
+baijiahao.baidu.com##.undefined._3RmxTKlPzuCkzYl1ZqE2yE.uukjsi6a_zpZccrqYiI3k
+baijiahao.baidu.com##._3cAIWshMtS86T-V_NTTzch
+baijiahao.baidu.com##.contentPadding.bottomTTSStruct
+baijiahao.baidu.com##.infinite-scroll-component__outerdiv
+baijiahao.baidu.com##.headDeflectorContainer
+
+! 2022-10-07 https://31maobk.com
+31maobk.com##.section-banner.section
+31maobk.com###right_couple
+31maobk.com##.icon_arrow_up.icon
+31maobk.com##.scroll-content
+31maobk.com###right_couplet
+31maobk.com###right_float
+31maobk.com###photo--content-title-bottomx--foot > div
+
+! 2022-10-07 https://3g.163.com
+3g.163.com##.js-open-app.backflow-floating
+3g.163.com##.js-recommend.recommend
+3g.163.com##.js-open-app.main-openApp
+3g.163.com##.comment-link
+3g.163.com##.js-topNav.topNav
+3g.163.com##.header
+
+! 2022-10-07 https://m.sohu.com
+m.sohu.com###artRecNews
+m.sohu.com###recommendSearch
+m.sohu.com##.nav_maps
+m.sohu.com##.topbox.comment-reply__bar.comment-reply__box
+m.sohu.com##.footer_menu_new
+m.sohu.com###topHeader
+
+! 2022-10-07 https://baike.baidu.com
+baike.baidu.com##.tashuo-list
+baike.baidu.com##.BK-after-content-wrapper
+baike.baidu.com###J-declare
+baike.baidu.com##.top-icon.search-icon
+baike.baidu.com##.home-icon.top-icon
+baike.baidu.com##.top-icon.more-icon
+baike.baidu.com##.KvhYuOP0
+baike.baidu.com###rJgOIZS3 > a
+
+! 2022-10-08 https://www.zaobao.com
+www.zaobao.com##.no-more.float-left.summary-scroll-container
+www.zaobao.com##.mb-0.adv.reset-row-margin
+
+! 2022-10-09 https://blog.csdn.net
+blog.csdn.net##.open_app_channelCode.feed-Sign-style-new.feed-Sign-span
+
+! 2022-10-10 https://m.huya.com
+m.huya.com##.pop-wrap
+m.huya.com##.pop-widget-mask
+m.huya.com##.pop-download
+m.huya.com##.start-btn
+m.huya.com##.header-app-btn
+
+! 2022-10-11 https://leetcode.cn
+leetcode.cn##.ehxv9sk0.css-bgwdgi-Wrapper
+
+! 2022-10-12 https://m.weibo.cn
+m.weibo.cn##.login-box
+
+! 2022-10-12 https://baike.baidu.com
+baike.baidu.com###J-lemma-videos
+baike.baidu.com##.J-top-service-recommend-wrapper
+
+! 2022-10-12 https://graph.baidu.com
+graph.baidu.com##.graph-guide-info
+
+! 2022-10-12 https://3g.163.com
+3g.163.com##.show.js-floatMenu.floatMenu
+
+! 2022-10-12 https://baike.baidu.com
+baike.baidu.com###J-lemma-baijiahao-box
+
+! 2022-10-15 https://www3.nhk.or.jp
+www3.nhk.or.jp###nw_gdpr_view_id
+
+! 2022-10-15 https://mil.sina.cn
+mil.sina.cn##.j_relevent_video.s_card
+mil.sina.cn##.z_c2.j_article_relevent_news.s_card
+mil.sina.cn##.j_wbrecommend_wrap.j_article_relevent.s_card
+mil.sina.cn##.ft_nav.hd_nav
+mil.sina.cn##.ft_cm
+mil.sina.cn##.fl_suspension_box
+mil.sina.cn##.hd_s1
+mil.sina.cn##.fl_words_box
+
+! 2022-10-17 https://view.inews.qq.com
+view.inews.qq.com##.normal_wrapper__3Gows.undefined.bottom_progressBar__1fgCP
+view.inews.qq.com##.comment_wrapper__12Hri > .slider-top_content__3OP_k
+
+! 2022-10-19 https://y.music.163.com
+y.music.163.com##.topfr
+y.music.163.com##.openapp
+
+! 2022-10-25 https://1ttdy.com
+1ttdy.com###urltips > div
+1ttdy.com###urltips
+
+! 2022-10-25 https://post.m.smzdm.com
+post.m.smzdm.com##.footer-banner-wrap
+post.m.smzdm.com##.position-tool
+
+! 2022-10-27 https://k.sina.cn
+k.sina.cn##.fl_suspension_box
+k.sina.cn##.j_relevent_video.s_card
+k.sina.cn##.j_article_relevent_news.z_c2.s_card
+k.sina.cn##.j_wbrecommend_wrap.j_article_relevent.s_card
+k.sina.cn##.ld_com_bar
+k.sina.cn##.ft_nav.hd_nav
+k.sina.cn##.ft_cm
+k.sina.cn##.fr.icon_user.hd_ic_m.hd_ic
+k.sina.cn##.fr.icon_navigation.hd_ic
+
+! 2022-10-27 https://m.sohu.com
+m.sohu.com##.showSurveyEntry.fixed_menu
+
+! 2022-10-28 https://sspai.com
+sspai.com###btn-call-app
+sspai.com##.ss-header_right
+
+! 2022-10-28 https://blog.csdn.net
+blog.csdn.net##.spec_space_hide.spec_space
+
+! 2022-10-29 https://twitter.com
+twitter.com###credential_picker_iframe
+twitter.com##div.r-zchlnj.r-1xcajam.r-12vffkv.r-1d2f490.r-1p0dtai.r-aqfbo4.css-1dbjc4n:nth-of-type(3)
+
+! 2022-10-29 https://jingyan.baidu.com
+jingyan.baidu.com##.asp-wrap.asp-2
+
+! 2022-10-30 https://m.facebook.com
+m.facebook.com###login_top_banner
+
+! 2022-11-04 https://zhidao.baidu.com
+zhidao.baidu.com##.iknow-common-header-content
+zhidao.baidu.com##.feed-recommend-list
+zhidao.baidu.com##.contextual-earches
+zhidao.baidu.com##.feed-recommend-title
+
+! 2022-11-05 https://blog.csdn.net
+blog.csdn.net##.clearfix.top_user_mod
+
+! 2022-11-05 https://www.jianshu.com
+www.jianshu.com##.comments-wrap
+www.jianshu.com##.note-graceful-button
+www.jianshu.com###free-reward-panel
+www.jianshu.com###comment-main
+www.jianshu.com###recommended-notes
+www.jianshu.com##.footer-wrap
+www.jianshu.com##.header-wrap
+www.jianshu.com##.app-open
+
+! 2022-11-07 https://view.inews.qq.com
+view.inews.qq.com##.normal_buttonWrap__3xBdo
+view.inews.qq.com##.footer_wap-footer__1rTg-
+
+! 2022-11-08 https://www.zaobao.com
+www.zaobao.com##footer
+www.zaobao.com##.mgt40.clear-right.order-8.col-12.col-lg-4.col-xl-4.float-none.float-lg-right > .reset-row-margin
+
+! 2022-11-08 https://m.jd.com
+m.jd.com###commonNav
+m.jd.com##.m-common-footer
+
+! 2022-11-09 https://zhidao.baidu.com
+zhidao.baidu.com##.dec
+zhidao.baidu.com###lfqsw636b84-related-list > div
+zhidao.baidu.com##.link
+zhidao.baidu.com###respect-footer
+
+! 2022-11-09 https://m.apkpure.com
+m.apkpure.com##.share-fixed
+
+! 2022-11-09 https://cn.bing.com
+cn.bing.com###b-scopeListItem-flights
+cn.bing.com###mHamburger
+cn.bing.com##.b_divdef.b_primtxt.b_footer
+
+! 2022-11-09 https://zhidao.baidu.com
+zhidao.baidu.com##.js-hot-topic.wgt-topic-hot
+zhidao.baidu.com##.w-question-list-0.w-question-list > .news-symbol-item.question-list
+zhidao.baidu.com##.w-question-list-1.w-question-list > .news-symbol-item.question-list
+zhidao.baidu.com##.w-question-list-0.w-question-list
+zhidao.baidu.com##.w-question-list-1.w-question-list
+zhidao.baidu.com##.has-comment-count.light-theme.reply-item-3870405872.w-reply-item > .w-reply-item-normal.w-reply-container
+zhidao.baidu.com##.consult-gowenyiwen-logo
+zhidao.baidu.com###reply-author-3870405872
+
+! 2022-11-09 https://43maobk.com
+43maobk.com##.section-banner.section
+43maobk.com###photo-header-title-content-text-dallor
+43maobk.com###right_couple
+43maobk.com###right_couplet
+43maobk.com##.scroll-mian
+43maobk.com###right_float
+43maobk.com##.photo--content-title-bottomx--foot
+43maobk.com##.foot-collect
+
+! 2022-11-10 https://cn.bing.com
+cn.bing.com###bgPro
+
+! 2022-11-11 https://baike.baidu.com
+baike.baidu.com##.header-wrapper
+
+! 2022-11-11 https://46maobk.com
+46maobk.com###photo-header-title-content-text-dallor > div
+46maobk.com##.section-banner.section
+46maobk.com##.photo--content-title-bottomx--foot
+
+! 2022-11-11 https://www.zaobao.com
+www.zaobao.com##.reset-row-margin.mt-0.adv
+
+! 2022-11-12 https://m.v.qq.com
+m.v.qq.com##.open-app
+
+! 2022-11-18 https://juejin.cn
+
+juejin.cn##.app-open-button.open-button
+juejin.cn##.byte-drawer--bottom.byte-drawer__content
+
+juejin.cn##.byte-drawer__mask
+
+! 2022-11-19 https://xueqiu.com
+xueqiu.com###swiper
+xueqiu.com##.index_new_uvZ.index_moveY_3wh.index_openapp__fix_3uc
+
+! 2022-11-20 https://13maoax.com
+13maoax.com##.collect-list
+
+! 2022-11-23 https://tieba.baidu.com
+tieba.baidu.com##.navbar-box
+
+! 2022-11-23 https://m.baidu.com
+m.baidu.com###page-ft
+
+! 2022-11-27 https://jingyan.baidu.com
+jingyan.baidu.com##.content-box.wgt-ad-guess
+
+! 2022-11-27 https://view.inews.qq.com
+view.inews.qq.com##.downloader-floating-bar_floatingBar__33E5t.downloader-floating-bar_floatingRight__2D7f9
+view.inews.qq.com##.recommend-with-downloader-bar_recommend__1C3ja
+view.inews.qq.com##.interaction-bottom_interaction__3fAzE
+
+! 2022-11-27 https://sports.ifeng.com
+sports.ifeng.com##.hot_box-2ZIfyGvm
+sports.ifeng.com##.toTop-28rbvT5m
+sports.ifeng.com##.link-1xGgkMtk
+sports.ifeng.com##.content-TvxNBzQA > .list-2Owf8PdJ
+sports.ifeng.com##.share_box-1CcYKLvP
+sports.ifeng.com##.hot_box-1HxOw1aW
+sports.ifeng.com##.toHome-3oAbLwZx
+
+! 2022-11-30 https://www.linuxcool.com
+www.linuxcool.com###site-footer
+www.linuxcool.com##.clearfix.widget_media_image.widget_block.widget
+www.linuxcool.com##.text1
+
+! 2022-12-02 https://www.zhihu.com
+www.zhihu.com##.AdBelowMoreAnswers
+
+! 2022-12-02 https://www.runningcheese.com
+www.runningcheese.com##.footer
+
+! 2022-12-02 https://m.weibo.cn
+m.weibo.cn##.wrap
+
+! 2022-12-03 https://www.zaobao.com
+www.zaobao.com##.back-top-bar
+
+! 2022-12-04 https://www.zhihu.com
+www.zhihu.com##.MBannerAd
+
+! 2022-12-04 https://view.inews.qq.com
+view.inews.qq.com##.undefined.miniphoto_bottomAd__PJdD3.miniphoto_darkmode__2Bseo.miniphoto_container__2eTXi
+
+! 2022-12-04 https://news.sina.cn
+news.sina.cn##.oem_img.fl_suspension_link
+news.sina.cn##.fl_suspension_box
+news.sina.cn##.j_relevent_video.s_card
+news.sina.cn##.z_c2.j_article_relevent_news.s_card
+news.sina.cn##.Card_zt
+news.sina.cn##.j_wbrecommend_wrap.j_article_relevent.s_card
+news.sina.cn##.z_c3.s_card
+news.sina.cn##.ft_nav.hd_nav
+news.sina.cn##.ft_cm
+news.sina.cn##.j_cmnt_bottom.rf.fl_words
+news.sina.cn##.hd_s1
+
+! 2022-12-05 https://view.inews.qq.com
+view.inews.qq.com###App_WX_share_page_1_52
+
+! 2022-12-07 https://cn.bing.com
+cn.bing.com###bnp_container
+
+! 2022-12-08 https://baike.baidu.com
+baike.baidu.com##.full-screen-second_prestrain
+
+! 2022-12-08 https://cn.bing.com
+cn.bing.com##[href^="/travel/search"]
+
+! 2022-12-09 https://www.ecosia.org
+www.ecosia.org##.cookie-notice.banner
+
+! 2022-12-09 https://baike.baidu.com
+baike.baidu.com##.HoMqXQo12
+baike.baidu.com###XDpSrj3 > a
+
+! 2022-12-11 https://baike.baidu.com
+baike.baidu.com##.squareAni.square.super-layer-promote
+
+! 2022-12-11 https://baijiahao.baidu.com
+baijiahao.baidu.com##.undefined._3sEOJqvavn7Lovn0IYEHVr.uukjsi6a_zpZccrqYiI3k
+
+! 2022-12-12 https://about.google
+about.google###google-hats-survey
+about.google###cookieBar
+
+! 2022-12-14 https://developer.aliyun.com
+developer.aliyun.com##.app-fixed-btn
+developer.aliyun.com###action-btns
+
+! 2022-12-23 https://view.inews.qq.com
+view.inews.qq.com###App_WAP_share_page_1__ALL_
+
+! 2023-01-06 https://juejin.cn
+juejin.cn##.poster-resouce-wrap
+
+! 2023-01-08 https://www.x666x.me
+www.x666x.me##center > table > tbody > tr
+
+! 2023-01-14 https://m.ithome.com
+m.ithome.com##.footer
+m.ithome.com##.hot-app
+m.ithome.com##.fixed-btn
+
+! 2023-01-15 https://www.bing.com
+www.bing.com###bgPro
+
+! 2023-01-15 https://www.zhihu.com
+www.zhihu.com##.Button--blue.css-183aq3r.Button
+www.zhihu.com##.css-1ie3c6f.ZDI--Dots24.ZDI
+
+! 2023-01-15 https://m.v.qq.com
+m.v.qq.com##.at-app-banner
+m.v.qq.com##.site-top__open-app
+
+! 2023-01-16 https://zhuanlan.zhihu.com
+zhuanlan.zhihu.com##.Button--blue.css-183aq3r.Button
+
+! 2023-01-18 https://www.bilibili.com
+www.bilibili.com##.float-btn
+
+! 2023-01-20 https://m.mi.com
+m.mi.com##.download-app-bottom-float
+m.mi.com##.align-center.flex.action-box
+m.mi.com##.download-app-go
+
+! 2023-01-23 https://m.thepaper.cn
+m.thepaper.cn##.index_footer_banner_panel__KblUH
+m.thepaper.cn##.index_footer_banner__Mcr_R
+m.thepaper.cn##.header_header_download__VUqb3
+
+! 2023-01-25 https://graph.baidu.com
+graph.baidu.com##.help-entry
+
+! 2023-01-27 https://aidi.tv
+aidi.tv##.model-content
+aidi.tv###myModal
+
+! 2023-02-07 https://main.m.taobao.com
+main.m.taobao.com##.signIn
+
